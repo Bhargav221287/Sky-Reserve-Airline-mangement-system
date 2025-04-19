@@ -6,8 +6,6 @@
 
 A complete web-based airline management system for flight bookings, passenger management, and administrative tasks.  
 
-![Sky-Reserve Logo](aircraft-airplane-airline-logo-or-label-journey-vector-21441986_1_-removebg-preview.png) *(Logo Preview)*  
-
 ## Features ✨  
 - **User Authentication**: Login/register system (`login_register.php`).  
 - **Flight Booking**: Book tickets with seat selection (`book_ticket.php`).  
@@ -59,8 +57,6 @@ A complete web-based airline management system for flight bookings, passenger ma
 3. Test changes thoroughly.  
 4. Submit a pull request.  
 
-## License 📄  
-MIT © [Bhargav](https://github.com/Bhargav221287)  
 ```
 
 ---
@@ -74,5 +70,3 @@ MIT © [Bhargav](https://github.com/Bhargav221287)
 **To complete the README**:  
 - Upload 1-2 screenshots of your UI (e.g., booking page, dashboard).  
 - Update `config.php` details if sensitive data exists (mention `.gitignore` in future projects).  
-
-Let me know if you'd like to add a demo link (e.g., Heroku/Live Server) or expand any section!
