@@ -1,9 +1,6 @@
 # Sky-Reserve ✈️  
 **Airline Management System**  
 
-[![GitHub stars](https://img.shields.io/github/stars/Bhargav221287/Sky-Reserve-Airline-mangement-system?style=social)](https://github.com/Bhargav221287/Sky-Reserve-Airline-mangement-system/stargazers)  
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
-
 A complete web-based airline management system for flight bookings, passenger management, and administrative tasks.  
 
 ## Features ✨  
