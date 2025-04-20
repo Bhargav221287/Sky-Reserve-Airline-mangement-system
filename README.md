@@ -56,12 +56,8 @@ A complete web-based airline management system for flight bookings, passenger ma
 
 ---
 
-### Key Enhancements:  
+## Key Enhancements:  
 1. **Tech Stack Clarity**: Explicitly mentions PHP/MySQL based on your files.  
 2. **Setup Guide**: Added detailed steps for local deployment.  
 3. **File Structure**: Helps contributors navigate the repo.  
 4. **Placeholder for Screenshots**: Replace `screenshot1.png` with actual images later.  
-
-**To complete the README**:  
-- Upload 1-2 screenshots of your UI (e.g., booking page, dashboard).  
-- Update `config.php` details if sensitive data exists (mention `.gitignore` in future projects).  
