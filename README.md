@@ -54,8 +54,6 @@ A complete web-based airline management system for flight bookings, passenger ma
 3. Test changes thoroughly.  
 4. Submit a pull request.  
 
-```
-
 ---
 
 ### Key Enhancements:  
