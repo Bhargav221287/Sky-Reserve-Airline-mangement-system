@@ -55,7 +55,7 @@ A complete web-based airline management system for flight bookings, passenger ma
 4. Submit a pull request.  
 
 ## Group Name - Ctrl + Sky
-# Group members 
+### Group members 
 - K. Hari Kishan
 - K. Maneesh Kumar Reddy 
 - G. Sai Charan 
