@@ -54,10 +54,10 @@ A complete web-based airline management system for flight bookings, passenger ma
 3. Test changes thoroughly.  
 4. Submit a pull request.  
 
----
-
-## Key Enhancements:  
-1. **Tech Stack Clarity**: Explicitly mentions PHP/MySQL based on your files.  
-2. **Setup Guide**: Added detailed steps for local deployment.  
-3. **File Structure**: Helps contributors navigate the repo.  
-4. **Placeholder for Screenshots**: Replace `screenshot1.png` with actual images later.  
+## Group Name - Ctrl + Sky
+- Group members 
+-- K. Hari Kishan
+-- K. Maneesh Kumar Reddy 
+-- G. Sai Charan 
+-- R. Gnanesh 
+-- P. Sai Bhargav 
